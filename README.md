@@ -29,3 +29,5 @@ In order to launch one of these, run the following commands:
 
 3. `ros2 launch ali_thymio working_3.launch.py thymio_name:=thymio0`
 (This command is launching the most advanced task implemented, to launch the first and second task, instead of “working_3” substitute “working_1” or “working_2”)
+
+<img src="https://github.com/arstek131/MyT-Controller/blob/main/example_screen.png"  style="width: 40vw; min-width: 140px;"/>
